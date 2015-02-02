@@ -167,7 +167,8 @@ header {
     display: none; }
 
   nav.navigation.slide-menu ul {
-    float: right; }
+    float: right;
+    padding-right: 20px; }
     nav.navigation.slide-menu ul li {
       float: left; } }
 
